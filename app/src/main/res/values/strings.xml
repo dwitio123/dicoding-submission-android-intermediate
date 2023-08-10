@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Story App</string>
+    <string name="icon_person">icon person</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="upload">Upload</string>
+    <string name="sign_in">Sign In</string>
+    <string name="photo">Photo</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="create_new_account">Create New Account</string>
+    <string name="name">Name</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="failed_to_get_permission">Failed to get permission</string>
+    <string name="please_fill_the_description">Please fill the description</string>
+    <string name="please_insert_image">Please insert image</string>
+    <string name="capture">capture</string>
+    <string name="switch_camera">switch camera</string>
+    <string name="add_story">Add Story</string>
+    <string name="story_photo">story photo</string>
+    <string name="minimum_length_8_characters">minimum length 8 characters.</string>
+    <string name="maps">Maps</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="retry">Retry</string>
+    <string name="story">Story</string>
+    <string name="failed_to_capture_photo">Failed to capture photo</string>
+    <string name="failed_open_camera">Failed open camera</string>
+</resources>
